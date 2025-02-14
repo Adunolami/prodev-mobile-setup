@@ -1,0 +1,7 @@
+export default function HomeScreen() {
+    return (
+        <View>
+            <Text>First App Created </Text>
+        </View>
+    );
+}
